@@ -1,0 +1,8 @@
+// ========================================
+// DAY 1: VARIABLES
+// ========================================
+
+// Product price
+var productPrice = 50;
+
+console.log(productPrice);
